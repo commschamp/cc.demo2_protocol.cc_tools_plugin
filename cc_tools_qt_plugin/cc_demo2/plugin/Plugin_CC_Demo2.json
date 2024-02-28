@@ -1,0 +1,9 @@
+{
+    "name" : "CC Demo2 Protocol",
+    "desc" : [
+        "Synthenic demo protocol to demonstrate protocol versioning ",
+        "where every message reports protocol version in its transport ",
+        "frame."
+    ],
+    "type" : "protocol"
+}
