@@ -5,6 +5,6 @@
         "where every message reports protocol version in its transport ",
         "frame."
     ],
-    "version": "v3.0.4",
+    "version": "v3.0.5",
     "type" : "protocol"
 }
